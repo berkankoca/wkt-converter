@@ -17,7 +17,7 @@ public class Main {
         Geometry geometry =  new Geometry() {
             @Override
             public boolean isEmpty() {
-                throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+                throw new UnsupportedOperationException("Not supported yet.");
             }
         };
                 
